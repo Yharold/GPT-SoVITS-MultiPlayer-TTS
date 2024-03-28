@@ -1,5 +1,7 @@
 runtime/*
+!/runtime/README.rst
 /.vscode/
 weights/*
+!/weights/存放模型的文件夹.md
 /ffmpeg.exe
 /ffprobe.exe
