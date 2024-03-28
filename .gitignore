@@ -1,5 +1,5 @@
-/runtime/
+runtime/*
 /.vscode/
-/weights/
+weights/*
 /ffmpeg.exe
 /ffprobe.exe
